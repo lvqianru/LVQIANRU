@@ -1,0 +1,14 @@
+使用express框架
+
+配合 express 应用骨架生成器 express-generator
+
+提供了 命令集合
+
+npm 包管理器
+    npm install 安装包名称 -g  --save 项目运行中保存  -dev 开发环境
+    npm uninstall 卸载包名称   --save 保存  -dev 开发环境
+
+    npm install   安装依赖包
+    npm start  开始
+
+    npm install -g npm  更新npm
